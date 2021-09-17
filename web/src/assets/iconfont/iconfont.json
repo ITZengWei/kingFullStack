@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1196941",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "2958996",
+      "name": "车辆档案",
+      "font_class": "cheliangdangan",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "2959004",
+      "name": "车辆排班",
+      "font_class": "cheliangpaiban",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "4876435",
+      "name": "superheroe",
+      "font_class": "superheroe",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "6658542",
+      "name": "cheronleft",
+      "font_class": "cheronleft",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "9999916",
+      "name": "other-options-icon",
+      "font_class": "other-options-icon",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "11982637",
+      "name": "Arrow, left, back",
+      "font_class": "Arrowleftback",
+      "unicode": "e9cb",
+      "unicode_decimal": 59851
+    }
+  ]
+}
